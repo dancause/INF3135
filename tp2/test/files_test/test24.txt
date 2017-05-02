@@ -1,0 +1,162 @@
+Name:  American Samoa 
+Code:  ASM 
+Capital: Pago Pago 
+Languages: English Samoan 
+Borders: 
+
+Name:  Australia 
+Code:  AUS 
+Capital: Canberra 
+Languages: English 
+Borders: 
+
+Name:  Cocos (Keeling) Islands 
+Code:  CCK 
+Capital: West Island 
+Languages: English 
+Borders: 
+
+Name:  Cook Islands 
+Code:  COK 
+Capital: Avarua 
+Languages: English Cook Islands Māori 
+Borders: 
+
+Name:  Christmas Island 
+Code:  CXR 
+Capital: Flying Fish Cove 
+Languages: English 
+Borders: 
+
+Name:  Fiji 
+Code:  FJI 
+Capital: Suva 
+Languages: Fiji Hindi English Fijian 
+Borders: 
+
+Name:  Micronesia 
+Code:  FSM 
+Capital: Palikir 
+Languages: English 
+Borders: 
+
+Name:  Guam 
+Code:  GUM 
+Capital: Hagåtña 
+Languages: Chamorro English Spanish 
+Borders: 
+
+Name:  Kiribati 
+Code:  KIR 
+Capital: South Tarawa 
+Languages: English Gilbertese 
+Borders: 
+
+Name:  Marshall Islands 
+Code:  MHL 
+Capital: Majuro 
+Languages: English Marshallese 
+Borders: 
+
+Name:  Northern Mariana Islands 
+Code:  MNP 
+Capital: Saipan 
+Languages: Carolinian Chamorro English 
+Borders: 
+
+Name:  New Caledonia 
+Code:  NCL 
+Capital: Nouméa 
+Languages: French 
+Borders: 
+
+Name:  Norfolk Island 
+Code:  NFK 
+Capital: Kingston 
+Languages: English Norfuk 
+Borders: 
+
+Name:  Niue 
+Code:  NIU 
+Capital: Alofi 
+Languages: English Niuean 
+Borders: 
+
+Name:  Nauru 
+Code:  NRU 
+Capital: Yaren 
+Languages: English Nauru 
+Borders: 
+
+Name:  New Zealand 
+Code:  NZL 
+Capital: Wellington 
+Languages: English Māori New Zealand Sign Language 
+Borders: 
+
+Name:  Pitcairn Islands 
+Code:  PCN 
+Capital: Adamstown 
+Languages: English 
+Borders: 
+
+Name:  Palau 
+Code:  PLW 
+Capital: Ngerulmud 
+Languages: English Palauan 
+Borders: 
+
+Name:  Papua New Guinea 
+Code:  PNG 
+Capital: Port Moresby 
+Languages: English Hiri Motu Tok Pisin 
+Borders: IDN
+
+Name:  French Polynesia 
+Code:  PYF 
+Capital: Papeetē 
+Languages: French 
+Borders: 
+
+Name:  Solomon Islands 
+Code:  SLB 
+Capital: Honiara 
+Languages: English 
+Borders: 
+
+Name:  Tokelau 
+Code:  TKL 
+Capital: Fakaofo 
+Languages: English Samoan Tokelauan 
+Borders: 
+
+Name:  Tonga 
+Code:  TON 
+Capital: Nuku'alofa 
+Languages: English Tongan 
+Borders: 
+
+Name:  Tuvalu 
+Code:  TUV 
+Capital: Funafuti 
+Languages: English Tuvaluan 
+Borders: 
+
+Name:  Vanuatu 
+Code:  VUT 
+Capital: Port Vila 
+Languages: Bislama English French 
+Borders: 
+
+Name:  Wallis and Futuna 
+Code:  WLF 
+Capital: Mata-Utu 
+Languages: French 
+Borders: 
+
+Name:  Samoa 
+Code:  WSM 
+Capital: Apia 
+Languages: English Samoan 
+Borders: 
+

@@ -1,0 +1,108 @@
+Name:  American Samoa 
+Code:  ASM 
+Capital: Pago Pago 
+
+Name:  Australia 
+Code:  AUS 
+Capital: Canberra 
+
+Name:  Cocos (Keeling) Islands 
+Code:  CCK 
+Capital: West Island 
+
+Name:  Cook Islands 
+Code:  COK 
+Capital: Avarua 
+
+Name:  Christmas Island 
+Code:  CXR 
+Capital: Flying Fish Cove 
+
+Name:  Fiji 
+Code:  FJI 
+Capital: Suva 
+
+Name:  Micronesia 
+Code:  FSM 
+Capital: Palikir 
+
+Name:  Guam 
+Code:  GUM 
+Capital: Hagåtña 
+
+Name:  Kiribati 
+Code:  KIR 
+Capital: South Tarawa 
+
+Name:  Marshall Islands 
+Code:  MHL 
+Capital: Majuro 
+
+Name:  Northern Mariana Islands 
+Code:  MNP 
+Capital: Saipan 
+
+Name:  New Caledonia 
+Code:  NCL 
+Capital: Nouméa 
+
+Name:  Norfolk Island 
+Code:  NFK 
+Capital: Kingston 
+
+Name:  Niue 
+Code:  NIU 
+Capital: Alofi 
+
+Name:  Nauru 
+Code:  NRU 
+Capital: Yaren 
+
+Name:  New Zealand 
+Code:  NZL 
+Capital: Wellington 
+
+Name:  Pitcairn Islands 
+Code:  PCN 
+Capital: Adamstown 
+
+Name:  Palau 
+Code:  PLW 
+Capital: Ngerulmud 
+
+Name:  Papua New Guinea 
+Code:  PNG 
+Capital: Port Moresby 
+
+Name:  French Polynesia 
+Code:  PYF 
+Capital: Papeetē 
+
+Name:  Solomon Islands 
+Code:  SLB 
+Capital: Honiara 
+
+Name:  Tokelau 
+Code:  TKL 
+Capital: Fakaofo 
+
+Name:  Tonga 
+Code:  TON 
+Capital: Nuku'alofa 
+
+Name:  Tuvalu 
+Code:  TUV 
+Capital: Funafuti 
+
+Name:  Vanuatu 
+Code:  VUT 
+Capital: Port Vila 
+
+Name:  Wallis and Futuna 
+Code:  WLF 
+Capital: Mata-Utu 
+
+Name:  Samoa 
+Code:  WSM 
+Capital: Apia 
+

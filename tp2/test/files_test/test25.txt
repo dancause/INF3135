@@ -1,0 +1,4 @@
+Name:  Canada 
+Code:  CAN 
+Languages: English French 
+Capital: Ottawa 

@@ -1,0 +1,108 @@
+Name:  American Samoa 
+Code:  ASM 
+Languages: English Samoan 
+
+Name:  Australia 
+Code:  AUS 
+Languages: English 
+
+Name:  Cocos (Keeling) Islands 
+Code:  CCK 
+Languages: English 
+
+Name:  Cook Islands 
+Code:  COK 
+Languages: English Cook Islands Māori 
+
+Name:  Christmas Island 
+Code:  CXR 
+Languages: English 
+
+Name:  Fiji 
+Code:  FJI 
+Languages: English Fiji Hindi Fijian 
+
+Name:  Micronesia 
+Code:  FSM 
+Languages: English 
+
+Name:  Guam 
+Code:  GUM 
+Languages: Chamorro English Spanish 
+
+Name:  Kiribati 
+Code:  KIR 
+Languages: English Gilbertese 
+
+Name:  Marshall Islands 
+Code:  MHL 
+Languages: English Marshallese 
+
+Name:  Northern Mariana Islands 
+Code:  MNP 
+Languages: Carolinian Chamorro English 
+
+Name:  New Caledonia 
+Code:  NCL 
+Languages: French 
+
+Name:  Norfolk Island 
+Code:  NFK 
+Languages: English Norfuk 
+
+Name:  Niue 
+Code:  NIU 
+Languages: English Niuean 
+
+Name:  Nauru 
+Code:  NRU 
+Languages: English Nauru 
+
+Name:  New Zealand 
+Code:  NZL 
+Languages: Māori English New Zealand Sign Language 
+
+Name:  Pitcairn Islands 
+Code:  PCN 
+Languages: English 
+
+Name:  Palau 
+Code:  PLW 
+Languages: English Palauan 
+
+Name:  Papua New Guinea 
+Code:  PNG 
+Languages: English Hiri Motu Tok Pisin 
+
+Name:  French Polynesia 
+Code:  PYF 
+Languages: French 
+
+Name:  Solomon Islands 
+Code:  SLB 
+Languages: English 
+
+Name:  Tokelau 
+Code:  TKL 
+Languages: English Tokelauan Samoan 
+
+Name:  Tonga 
+Code:  TON 
+Languages: English Tongan 
+
+Name:  Tuvalu 
+Code:  TUV 
+Languages: English Tuvaluan 
+
+Name:  Vanuatu 
+Code:  VUT 
+Languages: Bislama English French 
+
+Name:  Wallis and Futuna 
+Code:  WLF 
+Languages: French 
+
+Name:  Samoa 
+Code:  WSM 
+Languages: English Samoan 
+

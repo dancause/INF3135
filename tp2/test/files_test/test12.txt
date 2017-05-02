@@ -1,0 +1,150 @@
+Name:  Afghanistan 
+Code:  AFG 
+
+Name:  United Arab Emirates 
+Code:  ARE 
+
+Name:  Armenia 
+Code:  ARM 
+
+Name:  Azerbaijan 
+Code:  AZE 
+
+Name:  Bangladesh 
+Code:  BGD 
+
+Name:  Bahrain 
+Code:  BHR 
+
+Name:  Brunei 
+Code:  BRN 
+
+Name:  Bhutan 
+Code:  BTN 
+
+Name:  China 
+Code:  CHN 
+
+Name:  Georgia 
+Code:  GEO 
+
+Name:  Hong Kong 
+Code:  HKG 
+
+Name:  Indonesia 
+Code:  IDN 
+
+Name:  India 
+Code:  IND 
+
+Name:  Iran 
+Code:  IRN 
+
+Name:  Iraq 
+Code:  IRQ 
+
+Name:  Israel 
+Code:  ISR 
+
+Name:  Jordan 
+Code:  JOR 
+
+Name:  Japan 
+Code:  JPN 
+
+Name:  Kazakhstan 
+Code:  KAZ 
+
+Name:  Kyrgyzstan 
+Code:  KGZ 
+
+Name:  Cambodia 
+Code:  KHM 
+
+Name:  South Korea 
+Code:  KOR 
+
+Name:  Kuwait 
+Code:  KWT 
+
+Name:  Laos 
+Code:  LAO 
+
+Name:  Lebanon 
+Code:  LBN 
+
+Name:  Sri Lanka 
+Code:  LKA 
+
+Name:  Macau 
+Code:  MAC 
+
+Name:  Maldives 
+Code:  MDV 
+
+Name:  Myanmar 
+Code:  MMR 
+
+Name:  Mongolia 
+Code:  MNG 
+
+Name:  Malaysia 
+Code:  MYS 
+
+Name:  Nepal 
+Code:  NPL 
+
+Name:  Oman 
+Code:  OMN 
+
+Name:  Pakistan 
+Code:  PAK 
+
+Name:  Philippines 
+Code:  PHL 
+
+Name:  North Korea 
+Code:  PRK 
+
+Name:  Palestine 
+Code:  PSE 
+
+Name:  Qatar 
+Code:  QAT 
+
+Name:  Saudi Arabia 
+Code:  SAU 
+
+Name:  Singapore 
+Code:  SGP 
+
+Name:  Syria 
+Code:  SYR 
+
+Name:  Thailand 
+Code:  THA 
+
+Name:  Tajikistan 
+Code:  TJK 
+
+Name:  Turkmenistan 
+Code:  TKM 
+
+Name:  Timor-Leste 
+Code:  TLS 
+
+Name:  Turkey 
+Code:  TUR 
+
+Name:  Taiwan 
+Code:  TWN 
+
+Name:  Uzbekistan 
+Code:  UZB 
+
+Name:  Vietnam 
+Code:  VNM 
+
+Name:  Yemen 
+Code:  YEM 
+

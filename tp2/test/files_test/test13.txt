@@ -1,0 +1,159 @@
+Name:  Åland Islands 
+Code:  ALA 
+
+Name:  Albania 
+Code:  ALB 
+
+Name:  Andorra 
+Code:  AND 
+
+Name:  Austria 
+Code:  AUT 
+
+Name:  Belgium 
+Code:  BEL 
+
+Name:  Bulgaria 
+Code:  BGR 
+
+Name:  Bosnia and Herzegovina 
+Code:  BIH 
+
+Name:  Belarus 
+Code:  BLR 
+
+Name:  Switzerland 
+Code:  CHE 
+
+Name:  Cyprus 
+Code:  CYP 
+
+Name:  Czechia 
+Code:  CZE 
+
+Name:  Germany 
+Code:  DEU 
+
+Name:  Denmark 
+Code:  DNK 
+
+Name:  Spain 
+Code:  ESP 
+
+Name:  Estonia 
+Code:  EST 
+
+Name:  Finland 
+Code:  FIN 
+
+Name:  France 
+Code:  FRA 
+
+Name:  Faroe Islands 
+Code:  FRO 
+
+Name:  United Kingdom 
+Code:  GBR 
+
+Name:  Guernsey 
+Code:  GGY 
+
+Name:  Gibraltar 
+Code:  GIB 
+
+Name:  Greece 
+Code:  GRC 
+
+Name:  Croatia 
+Code:  HRV 
+
+Name:  Hungary 
+Code:  HUN 
+
+Name:  Isle of Man 
+Code:  IMN 
+
+Name:  Ireland 
+Code:  IRL 
+
+Name:  Iceland 
+Code:  ISL 
+
+Name:  Italy 
+Code:  ITA 
+
+Name:  Jersey 
+Code:  JEY 
+
+Name:  Kosovo 
+Code:  UNK 
+
+Name:  Liechtenstein 
+Code:  LIE 
+
+Name:  Lithuania 
+Code:  LTU 
+
+Name:  Luxembourg 
+Code:  LUX 
+
+Name:  Latvia 
+Code:  LVA 
+
+Name:  Monaco 
+Code:  MCO 
+
+Name:  Moldova 
+Code:  MDA 
+
+Name:  Macedonia 
+Code:  MKD 
+
+Name:  Malta 
+Code:  MLT 
+
+Name:  Montenegro 
+Code:  MNE 
+
+Name:  Netherlands 
+Code:  NLD 
+
+Name:  Norway 
+Code:  NOR 
+
+Name:  Poland 
+Code:  POL 
+
+Name:  Portugal 
+Code:  PRT 
+
+Name:  Romania 
+Code:  ROU 
+
+Name:  Russia 
+Code:  RUS 
+
+Name:  Svalbard and Jan Mayen 
+Code:  SJM 
+
+Name:  San Marino 
+Code:  SMR 
+
+Name:  Serbia 
+Code:  SRB 
+
+Name:  Slovakia 
+Code:  SVK 
+
+Name:  Slovenia 
+Code:  SVN 
+
+Name:  Sweden 
+Code:  SWE 
+
+Name:  Ukraine 
+Code:  UKR 
+
+Name:  Vatican City 
+Code:  VAT 
+

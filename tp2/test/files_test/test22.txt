@@ -1,0 +1,108 @@
+Name:  American Samoa 
+Code:  ASM 
+Borders: 
+
+Name:  Australia 
+Code:  AUS 
+Borders: 
+
+Name:  Cocos (Keeling) Islands 
+Code:  CCK 
+Borders: 
+
+Name:  Cook Islands 
+Code:  COK 
+Borders: 
+
+Name:  Christmas Island 
+Code:  CXR 
+Borders: 
+
+Name:  Fiji 
+Code:  FJI 
+Borders: 
+
+Name:  Micronesia 
+Code:  FSM 
+Borders: 
+
+Name:  Guam 
+Code:  GUM 
+Borders: 
+
+Name:  Kiribati 
+Code:  KIR 
+Borders: 
+
+Name:  Marshall Islands 
+Code:  MHL 
+Borders: 
+
+Name:  Northern Mariana Islands 
+Code:  MNP 
+Borders: 
+
+Name:  New Caledonia 
+Code:  NCL 
+Borders: 
+
+Name:  Norfolk Island 
+Code:  NFK 
+Borders: 
+
+Name:  Niue 
+Code:  NIU 
+Borders: 
+
+Name:  Nauru 
+Code:  NRU 
+Borders: 
+
+Name:  New Zealand 
+Code:  NZL 
+Borders: 
+
+Name:  Pitcairn Islands 
+Code:  PCN 
+Borders: 
+
+Name:  Palau 
+Code:  PLW 
+Borders: 
+
+Name:  Papua New Guinea 
+Code:  PNG 
+Borders: IDN
+
+Name:  French Polynesia 
+Code:  PYF 
+Borders: 
+
+Name:  Solomon Islands 
+Code:  SLB 
+Borders: 
+
+Name:  Tokelau 
+Code:  TKL 
+Borders: 
+
+Name:  Tonga 
+Code:  TON 
+Borders: 
+
+Name:  Tuvalu 
+Code:  TUV 
+Borders: 
+
+Name:  Vanuatu 
+Code:  VUT 
+Borders: 
+
+Name:  Wallis and Futuna 
+Code:  WLF 
+Borders: 
+
+Name:  Samoa 
+Code:  WSM 
+Borders: 
+

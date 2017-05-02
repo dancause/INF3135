@@ -1,0 +1,81 @@
+Name:  American Samoa 
+Code:  ASM 
+
+Name:  Australia 
+Code:  AUS 
+
+Name:  Cocos (Keeling) Islands 
+Code:  CCK 
+
+Name:  Cook Islands 
+Code:  COK 
+
+Name:  Christmas Island 
+Code:  CXR 
+
+Name:  Fiji 
+Code:  FJI 
+
+Name:  Micronesia 
+Code:  FSM 
+
+Name:  Guam 
+Code:  GUM 
+
+Name:  Kiribati 
+Code:  KIR 
+
+Name:  Marshall Islands 
+Code:  MHL 
+
+Name:  Northern Mariana Islands 
+Code:  MNP 
+
+Name:  New Caledonia 
+Code:  NCL 
+
+Name:  Norfolk Island 
+Code:  NFK 
+
+Name:  Niue 
+Code:  NIU 
+
+Name:  Nauru 
+Code:  NRU 
+
+Name:  New Zealand 
+Code:  NZL 
+
+Name:  Pitcairn Islands 
+Code:  PCN 
+
+Name:  Palau 
+Code:  PLW 
+
+Name:  Papua New Guinea 
+Code:  PNG 
+
+Name:  French Polynesia 
+Code:  PYF 
+
+Name:  Solomon Islands 
+Code:  SLB 
+
+Name:  Tokelau 
+Code:  TKL 
+
+Name:  Tonga 
+Code:  TON 
+
+Name:  Tuvalu 
+Code:  TUV 
+
+Name:  Vanuatu 
+Code:  VUT 
+
+Name:  Wallis and Futuna 
+Code:  WLF 
+
+Name:  Samoa 
+Code:  WSM 
+
